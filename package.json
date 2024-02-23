@@ -1,0 +1,10 @@
+{
+  "name": "discordBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rob",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
